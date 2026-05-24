@@ -1,0 +1,3 @@
+Python programming practice.
+Working with files and directories.
+Search test word: hello world.
